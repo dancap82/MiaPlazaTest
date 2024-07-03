@@ -1,0 +1,7 @@
+- Download the project via attachment or on the github link
+- Install node.js
+- In terminal type "npm install"
+- In terminal type "npx cypress open"
+- Select "E2E Testing"
+- Select any browser and press the start button
+- Select the "miacademy.cy.js"
